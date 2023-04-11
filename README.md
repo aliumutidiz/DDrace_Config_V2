@@ -4,7 +4,7 @@
 
 ## How to use
  
-- After placing the files in the game location, go to the game and type ``start byte`` into the console
+- After placing the files in the game location, go to the game and type ``exec byte`` into the console
 
 <br />
 <br />
