@@ -10,7 +10,7 @@
 <br />
 
 ## Download Zip
-- [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Psychorot/DDrace_Config_V2/archive/refs/heads/main.zip)
+- [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/aliumutidiz/DDrace_Config_V2/archive/refs/heads/main.zip)
 <br />
 <br />
 <br />
