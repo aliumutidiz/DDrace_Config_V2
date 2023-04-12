@@ -21,7 +21,7 @@ Version 2.0.0 - ``Byte Edition*``
 
 1. Download the configuration files from the [latest release](https://github.com/aliumutidiz/DDrace_Config_V2/releases/latest/download/DDrace_Config_V2.zip).
 
-   [![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/aliumutidiz/DDrace_Config_V2/releases/latest/download/DDrace_Config_V2.zip)
+   [![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/aliumutidiz/DDrace_Config_V2/archive/refs/heads/main.zip)
 
 2. Extract the files to the game folder.
 3. Open the game console.
